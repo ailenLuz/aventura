@@ -1,0 +1,27 @@
+body{
+    margin: 1%;
+    background-image: url(https://us.images.westend61.de/0001476205pw/varieties-of-cheese-and-bread-sticks-on-pink-background-GEMF04355.jpg);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:active {
+    background-color: brown;
+    color: black;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+p h2{
+    font-size: 150%;
+    font-style: bold;
+}
+
+img{
+    border-radius: 50%;
+    text-align: center;
+}
+
